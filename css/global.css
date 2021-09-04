@@ -1,0 +1,284 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+body{
+    
+    background-color: #F2F2F2;
+    max-height:100vh;
+  
+  
+}
+.container-geral{
+
+    margin:64px 164px 213px 164px;
+}
+
+.distancia-nav{
+    
+   margin-left:42px;
+}
+
+.nav-decoration{
+    text-decoration: none;
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    
+    
+}
+.zera-link{
+    text-decoration: none;
+}
+
+.nav-dark{
+    color: #33323D;
+}
+.nav-decoration-modified{
+    color:#5FB4A2;
+}
+.nav-light{
+    color:white;
+}
+.logo-header{
+  align-self: flex-start;
+    align-items: center;
+    margin: 12px;
+   
+}
+
+
+.header{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom: 54px;
+   width: 100%;
+}
+
+.zerar-btn{
+    all: unset;
+    box-sizing: border-box;
+}
+
+.footer{
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    height: 80px;
+    background: #33323D;;
+    padding: 0 165px;
+}
+.nav-footer{
+    display: flex;
+}
+.logos-footer{
+    display: flex;
+    align-items: center;
+    margin-left: 588px;
+}
+.logo-footer{
+    
+}
+
+.distancia-logos{
+    margin-right: 15px;
+}
+
+
+
+
+
+/* __________________________________________________________________________________ */
+
+
+
+/* CORES*/
+
+.color-primary-dark-blue{
+    color: #203A4C;
+
+}
+
+.color-primary-slightly-cyan{
+    color: #5FB4A2;
+}
+
+.color-primary-grayish-dark-blue{
+    color: #33323D;
+}
+
+.color-secundary-very-light-grey{
+    color:#FAFAFA;
+}
+
+.color-secundary-light-grey{
+    color:#EAEAEB;
+}
+
+
+
+
+
+/* ________________________________________________________________________________ */
+
+
+/* FONTES */
+
+
+.font-body1{
+   
+
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+}
+
+.font-body2{
+
+
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+
+
+
+    color: #33323D;
+}
+
+.font-h1{
+    font-family: 'Ibarra Real Nova', serif;
+
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+
+
+    letter-spacing: -0.446429px;
+
+    color: #33323D;
+}
+
+.font-h2{
+ 
+    font-family: 'Ibarra Real Nova', serif;
+
+  
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    
+
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+}
+
+.font-h3{
+   
+    
+    font-family: 'Ibarra Real Nova', serif;
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 36px;
+
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+}
+
+/* ____________________________________________________________________________________________ */
+
+
+
+
+/* BOTOÕES */
+
+.btn-primary{
+    width:200px;
+    height:48px;
+    display: flex;
+   
+    align-items: center;
+    background-color: #203A4C;
+
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.btn-primary:hover{
+    background: #5FB4A2;
+    
+}
+.btn-secundary-light{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    border: 1px solid #33323D;
+    width: 168px;
+    height: 48px;
+
+
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #33323D;
+}
+.btn-secundary-light:hover{
+
+     background: #33323D;
+     color: #FAFAFA;
+
+}
+
+
+
+.interessados{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:170px;
+    width: 1110px;
+    height:84px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,129 @@
+.interessados{
+    width:1015px;
+}
+.header{
+    width:1111px;
+}
+
+.entre-em-contato{
+    margin-top: 143px;
+    display: flex;
+    flex-direction: row;
+    width: 1110px;
+    
+}
+
+.txt{
+
+    width: 635px;
+    height: 180px;
+    margin-left: 125px;
+    
+}
+
+.title{
+    width: 350px;
+    height: 42px;
+   
+}
+
+.logos-contato{
+    margin-top: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left:476px;
+    margin-bottom:48px;
+    width:104px;
+
+}
+
+.bordas{
+    width: 1010px;
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.contato{
+    
+    margin-top:47px;
+}
+
+.contato{
+    display: flex;
+    align-items:flex-start;
+   
+}
+
+.inputs-contato{
+    display: flex;
+    flex-direction: column;
+    margin-left:125px;
+   
+}
+.title-contato{
+    width:350px;
+}
+
+.input-title{
+    width:535px;
+    height: 30px;
+
+
+    font-family: 'Public-sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 30px;
+
+  
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.input-nome-email{
+   
+    all: unset;
+    box-sizing: border-box;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 18px;
+    color: #33323D;
+    margin-bottom:24px;
+    width: 635px;
+    height:48px;
+    background: #33323d15;
+ 
+
+}
+.input-nome-email:focus{
+    border:1px #33323D solid;
+}
+.input-mensagem{
+    
+    all: unset;
+    box-sizing: border-box;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 18px;
+    color: #33323D;
+    word-wrap: break-word;
+    width: 635px;
+    height:96px;
+    background: #33323d15;
+    
+    
+
+}
+.input-mensagem:focus{
+    border:1px #33323D solid;
+}
+
+.btn-enviar{
+    margin-top:24px;
+
+   
+    justify-content: center;
+}
+

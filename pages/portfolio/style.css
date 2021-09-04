@@ -1,0 +1,68 @@
+
+.img{
+    width:540px;
+    height:500px;
+}
+
+
+.container-left{
+    display: flex;
+    width:1020px;
+    height:500px;
+  
+}
+
+.txt-right{
+    display: flex;
+    flex-direction: column;
+    height:500px;
+    margin-left:125px;
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+   
+}
+
+.title{
+    margin-top: 103px;
+
+
+}
+
+.txt-projeto{
+    margin-top: 28px;
+}
+.btn-verprojeto1{
+
+   margin-top: 54px;
+    font-weight: normal;
+    font-size: 12px;
+    
+    color: #33323D;
+}
+
+.container-right{
+    display: flex;
+    width:1020px;
+    height:500px;
+    flex-direction: row-reverse;
+    margin-top:80px;
+    margin-bottom: 80px;
+
+}
+
+.txt-left{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 80px;
+    height:500px;
+    margin-right:125px;
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.interessados{
+    width:1015px;
+}
+.header{
+    width:1111px;
+}

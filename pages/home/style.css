@@ -1,0 +1,141 @@
+.h1{
+    
+    display: flex;
+    flex-direction:column;
+   
+    position: absolute;
+  
+    margin: 56px 28px 0 27px;
+   
+
+
+}
+
+.h1-container{
+    
+    position: absolute;
+
+    display: flex;
+    justify-content: flex-start;
+    width:455px;
+    height: 357px;
+    background: #FAFAFA;
+
+}
+.container-sobremim{
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-end;
+    width:1110px;
+    height:600px;
+  
+    margin-bottom: 129px;
+
+  
+    
+}
+
+.img-manage{
+    width:100%;
+}
+
+
+.btn-sobremim{
+  
+    
+    align-self:flex-end;
+
+    
+}
+
+.icon-sobremim{
+
+
+width: 28px;
+height: 28px;
+margin: auto;
+
+
+
+}
+
+.container-icon-sobremim{
+    display: flex;
+    
+
+    width: 48px;
+    height: 48px;
+    background: #000000;
+    opacity: 0.3;
+
+    margin-right:30px;
+}
+
+
+
+.img-profile{
+    width:540px;
+    height: 600px;
+}
+
+.container-profile-sobremim{
+    display: flex;  
+    width:1110px;
+
+}
+
+.txt-sobremim{
+
+height: 601px;
+width:430px;
+display: flex;
+flex-direction: column;
+
+
+margin-left:140px;
+border-top:  rgba(51,50,61,0.15) 1px  solid ;
+border-bottom:rgba(51,50,61,0.15) 1px solid ;
+
+
+
+}
+
+.title-sobremim{
+    margin-top: 51px;
+}
+
+.txt-descritivo{
+    margin-top: 28px;
+    height: 360px;
+    opacity: 0.8;
+}
+
+.btn-portfolio{
+    margin-top: 24px;
+    align-self: center;
+  
+    width: 204px;
+    height: 48px;
+}
+
+.interessados{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:170px;
+    width: 1110px;
+    height:84px;
+}
+
+.btn-contato{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    border: 1px solid #33323D;
+    width: 168px;
+    height: 48px;
+
+}

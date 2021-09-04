@@ -1,0 +1,179 @@
+
+.img1{
+    margin-top: 40px;
+    width: 1110px;
+    height: 500px;
+}
+.container-txt{
+    margin-top: 115px;
+    
+    width: 1110px;
+    height: 1192px;
+    display: flex;
+}
+
+.textos{
+    width: 350px;
+    height: 496px;
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+    padding-top:48px;
+   
+
+
+}
+.title{
+    margin-bottom:29px;
+    
+}
+.txt1-body{
+    margin-bottom:53px;
+}
+.rodape1{
+
+    
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+    
+
+}
+
+.rodape2{
+    font-family:'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+    margin-top: 16px;
+
+
+ 
+}
+
+.btn-contato{
+    margin-top:32px;
+  
+}
+
+.projeto{
+    margin-left: 125px;
+    display: flex;
+    flex-direction: column;
+    width: 635px;
+    height: 1192px;
+
+}
+
+.txt-body2{
+    margin-top: 28px;
+}
+
+.title-previews{
+    margin-top: 40px;
+
+}
+
+.img2{
+    margin-top: 28px;
+    width: 635px;
+    height: 400px;
+}
+
+.img3{
+    margin-top: 32px;
+    width: 635px;
+    height: 400px;
+}
+
+.passar-projeto{
+    width:1110px;
+    height: 110px;
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+    margin-top: 64px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.voltar{
+    display: flex;
+    align-items: center;
+
+   
+}
+.fylo{
+    text-align: start;
+    margin-left: 32px;
+}
+
+.container-voltar{
+    display: flex;
+    flex-direction: column;
+ 
+    align-items:flex-start;
+ 
+}   
+
+.projeto-anterior{
+    margin-left: 32px;
+    opacity:0.5;
+}
+
+
+
+.avancar{
+    display: flex;
+    align-items: center;
+ 
+
+   
+}
+.bookmark{
+    text-align: start;
+    margin-right: 32px;
+}
+.arrow-right{
+    text-align: start;
+    margin-left: 32px;
+
+}
+
+.container-avancar{
+    display: flex;
+    flex-direction: column;
+    text-align: end;
+    align-items:flex-end;
+ 
+}   
+
+.proximo-projeto{
+ 
+
+    opacity:0.5;
+}
+
+
+
+
+
+
+.btn-avanca-volta {
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+.footer{
+    width: 1480px;
+}
